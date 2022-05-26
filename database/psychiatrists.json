@@ -1,0 +1,40 @@
+[{
+    "firstName": "Dr. Amit",
+    "lastName": "Kumar",
+    "hospital": "Apollo Hospitals",
+    "phoneNumber": "918888888888",
+    "pincode": "560037",
+    "state": "Telangana"
+},
+{
+    "firstName": "Dr. Ramesh",
+    "lastName": "Chatterjee",
+    "hospital": "Jawaharlal Nehru Medical College and Hospital",
+    "phoneNumber": "",
+    "pincode": "",
+    "state": "Uttarakhand" 
+},
+{
+    "firstName": "Dr. Meena",
+    "lastName": "Verma",
+    "hospital": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+    "phoneNumber": "",
+    "pincode": "",
+    "state": "West Bengal" 
+},
+{
+    "firstName": "Dr. Mukesh",
+    "lastName": "Agarwal",
+    "hospital": "AIIMS - All India Institute Of Medical Science",
+    "phoneNumber": "",
+    "pincode": "",
+    "state": "Maharashtra" 
+},
+{
+    "firstName": "Dr. Salman",
+    "lastName": "Ahmed",
+    "hospital": "AIIMS - All India Institute Of Medical Science",
+    "phoneNumber": "",
+    "pincode": "",
+    "state": "Maharashtra"
+}]
